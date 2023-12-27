@@ -79,14 +79,13 @@
   .great-place-to-enjoy
 {
 	background-image: url('../images/GPtE-bg.jpg');
-    height: 10px;
-    width: 10px;
+    
 
 	
 
 }
 .section-title{
-    margin-left: 850px;
+    margin-left: 300px;
     align-items: center;
     position: absolute;
     height: 500px;
@@ -95,5 +94,5 @@
 
 }
 .picture{
-    size: 10px;
+    border-image-width: 10px;
 }
