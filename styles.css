@@ -81,7 +81,7 @@
 	background-image: url('../images/GPtE-bg.jpg');
     background-position: 51% 58%, 75% 58%;
 	
-    background-size: 300px 300px, 240px 240px;
+    background-size: 100px 100px, 100px 100px;
 }
 .section-title{
     margin-left: 1000px;
@@ -91,4 +91,7 @@
     width: 500px;
     color: green;
 
+}
+.picture{
+    size: 10px;
 }
