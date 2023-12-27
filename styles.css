@@ -85,13 +85,13 @@
 
 }
 .section-title{
-    margin-left: 300px;
+    margin-left: 250px;
     align-items: center;
     position: absolute;
-    height: 500px;
-    width: 500px;
-    color: #288adf;
-    background-color: green;
+  
+    
+    color:green
+    
 
 }
 .picture{
