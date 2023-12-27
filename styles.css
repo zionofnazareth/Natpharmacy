@@ -79,12 +79,13 @@
   .great-place-to-enjoy .section-bg
 {
 	background-image: url('../images/GPtE-bg.jpg');
-    background-position: 51% 58%, 75% 58%;
+    background-position-x: 20%, 20%;
+	background-position-y: 20%, 20%;
 	
-    background-size: 100px 100px, 100px 100px;
+    background-size: 20px;
 }
 .section-title{
-    margin-left: 1000px;
+    margin-left: 850px;
     align-items: center;
     position: absolute;
     height: 500px;
